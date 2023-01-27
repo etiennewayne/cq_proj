@@ -25,6 +25,10 @@
     color: coral;
 }
 
+.navbar-item > a{
+    text-decoration: none;
+}
+
 body, html {
 height: 100%;
   margin: 0;

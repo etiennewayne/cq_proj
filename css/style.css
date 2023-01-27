@@ -68,27 +68,24 @@ height: 100%;
     transform: translate(-50%, -50%);
     color: white;
 }
-.cardcontainer {
+
+
+.card-container {
   display: flex;
   justify-content: center;
-  
 }
-.cardcontainer2 {
-  display: flex;
-  justify-content: center;
-  
-}
+
 .card {
-  width: 190px;
-  height: 254px;
-  background: #07182E;
-  position: relative;
-  display: flex;
-  place-content: center;
-  place-items: center;
-  overflow: hidden;
-  border-radius: 20px;
-  margin-right: 45px;
+    width: 190px;
+    height: 254px;
+    background: #07182E;
+    position: relative;
+    display: flex;
+    place-content: center;
+    place-items: center;
+    overflow: hidden;
+    border-radius: 20px;
+    margin-right: 45px;
 }
 
 .card2 {
